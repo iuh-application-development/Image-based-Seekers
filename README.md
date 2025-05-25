@@ -4,9 +4,9 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 
 ---
 ## Thông tin nhóm
-Nguyễn Đặng Thái Bảo-mssv: 22002605
-Hồ Thiên Bảo-mssv: 22001975
-Lương Công Phú Boy-mssv: 22002515
+- Nguyễn Đặng Thái Bảo-mssv: 22002605
+- Hồ Thiên Bảo-mssv: 22001975
+- Lương Công Phú Boy-mssv: 22002515
 ---
 ## 🚀 Chức năng chính
 
