@@ -41,7 +41,8 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 ![Giao diện lịch sử](static/screen/giaodienlichsu.png)
 
 ---
-
+## Link video cùng với mô hình: 
+https://drive.google.com/drive/folders/1_kZ7GbcvqtgqWWVt1WaNpe19aoC5TRrJ
 ## 🛠 Cài đặt và chạy ứng dụng
 
 ### Yêu cầu:
