@@ -15,18 +15,20 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 - Lương Công Phú Boy-22002515	-	Chuẩn bị dữ liệu, train models, thuyết trình.
 
 ---
-## 🚀 Chức năng chính
+##  Chức năng chính
 
-- 📷 Tìm kiếm động vật bằng cách tải ảnh lên
-- 🧠 Sử dụng EfficientNetB2 để trích xuất đặc trưng hình ảnh
-- 🐍 Flask backend dễ tùy chỉnh
-- 👤 Quản lý người dùng (Admin / User)
-- ✍️ Quản lý bài viết về động vật
-- 🌙 Giao diện nền tối hiện đại
+-  Tìm kiếm động vật bằng cách tải ảnh lên
+-  Sử dụng EfficientNetB2 để trích xuất đặc trưng hình ảnh
+-  Flask backend dễ tùy chỉnh
+-  Quản lý người dùng (Admin / User)
+-  Quản lý bài viết về động vật
+-  Giao diện nền tối hiện đại
 
 ---
-
-## 🖼️ Ảnh minh họa
+## Cơ sở dữ liệu: Mongodb
+- cluster: MONGODB_URI=mongodb+srv://baoboybao:thaibao3214@clustersearchimge.eco6dhq.mongodb.net/clustersearchimge?retryWrites=true&w=majority
+---
+## Ảnh minh họa
 
 ![Giao diện đăng ký](static/screen/dangky.png)
 ![Giao diện đăng nhập](static/screen/dangnhap.png)
@@ -40,10 +42,10 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 
 ---
 
-## 🛠️ Cài đặt và chạy ứng dụng
+## 🛠 Cài đặt và chạy ứng dụng
 
 ### Yêu cầu:
-- Python 3.8+
+- Python 3.10
 - pip
 - Git
 
