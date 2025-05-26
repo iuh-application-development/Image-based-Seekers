@@ -9,6 +9,12 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 - Hồ Thiên Bảo-mssv: 22001975
 - Lương Công Phú Boy-mssv: 22002515
 ---
+## Phân công
+Nguyễn Đặng Thái Bảo-22002605	-	Viết app.py(ứng dụng), tổng hợp lại và push github, slide
+Hồ Thiên Bảo- 22001975	-	Viết code html(giao diện web), thuyết trình, làm báo cáo.
+Lương Công Phú Boy-22002515	-	Chuẩn bị dữ liệu, train models, thuyết trình.
+
+---
 ## 🚀 Chức năng chính
 
 - 📷 Tìm kiếm động vật bằng cách tải ảnh lên
