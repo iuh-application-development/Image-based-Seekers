@@ -28,17 +28,25 @@ Dự án Flask giúp người dùng tìm kiếm thông tin động vật dựa t
 ## Cơ sở dữ liệu: Mongodb
 - cluster: MONGODB_URI=mongodb+srv://baoboybao:thaibao3214@clustersearchimge.eco6dhq.mongodb.net/clustersearchimge?retryWrites=true&w=majority
 ---
-## Ảnh minh họa
+<h2>Ảnh minh họa</h2>
 
-![Giao diện đăng ký](static/screen/dangky.png)
-![Giao diện đăng nhập](static/screen/dangnhap.png)
-![Giao diện ứng dụng](static/screen/giaodienchinh.png)
-![Giao diện khi tìm kiếm](static/screen/giaodienkhisearch.png)
-![Giao diện tìm kiếm theo tên](static/screen/giaodiensearchtheoten.png)
-![Giao diện posts](static/screen/giaodienposts.png)
-![Giao diện ứng dụng](static/screen/giaodienchinh.png)
-![Giao diện profile](static/screen/giaodienprofile.png)
-![Giao diện lịch sử](static/screen/giaodienlichsu.png)
+<p float="left">
+  <img src="static/screen/dangky.png" width="200"/>
+  <img src="static/screen/dangnhap.png" width="200"/>
+  <img src="static/screen/giaodienchinh.png" width="200"/>
+</p>
+
+<p float="left">
+  <img src="static/screen/giaodienkhisearch.png" width="200"/>
+  <img src="static/screen/giaodiensearchtheoten.png" width="200"/>
+  <img src="static/screen/giaodienposts.png" width="200"/>
+</p>
+
+<p float="left">
+  <img src="static/screen/giaodienprofile.png" width="200"/>
+  <img src="static/screen/giaodienlichsu.png" width="200"/>
+</p>
+
 
 ---
 ## Link video cùng với mô hình: 
